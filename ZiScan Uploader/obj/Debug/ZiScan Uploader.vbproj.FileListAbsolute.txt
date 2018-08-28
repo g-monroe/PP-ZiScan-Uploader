@@ -1,0 +1,23 @@
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.exe
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.xml
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.vbprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan_Uploader.Main.resources
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan_Uploader.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.exe
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.xml
+c:\users\kevin\documents\visual studio 2015\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.pdb
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.exe.config
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.exe
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.pdb
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\bin\Debug\ZiScan Uploader.xml
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.vbprojAssemblyReference.cache
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan_Uploader.Main.resources
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan_Uploader.Resources.resources
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.vbproj.GenerateResource.cache
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.vbproj.CoreCompileInputs.cache
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.exe
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.xml
+C:\Users\Gavin\Documents\Projects\ZiScan Uploader\ZiScan Uploader\obj\Debug\ZiScan Uploader.pdb
